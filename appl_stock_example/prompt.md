@@ -1,0 +1,1 @@
+Build me an interactive candlestick chart following the $APPL stock ticker using monthly candles for the last 5 years. Show the 50 day and 100 day moving averages with shaded uncertainties. Make the whole thing as garish as possible.
