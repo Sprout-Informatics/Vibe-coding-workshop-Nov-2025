@@ -1,0 +1,11 @@
+sample_id,group,comparison
+Control_1,Control,Control_vs_Treatment
+Control_2,Control,Control_vs_Treatment
+Control_3,Control,Control_vs_Treatment
+Control_4,Control,Control_vs_Treatment
+Control_5,Control,Control_vs_Treatment
+Treatment_1,Treatment,Control_vs_Treatment
+Treatment_2,Treatment,Control_vs_Treatment
+Treatment_3,Treatment,Control_vs_Treatment
+Treatment_4,Treatment,Control_vs_Treatment
+Treatment_5,Treatment,Control_vs_Treatment
