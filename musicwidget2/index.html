@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Now Playing - Lo-fi Widget</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="widget">
+    <div class="track-info">
+      <span id="now-playing">Now Playing:</span>
+      <span id="track-title">lofi chill beat</span>
+    </div>
+
+    <!-- 🔊 Waveform -->
+  <div class="waveform" id="waveform">
+    <span></span><span></span><span></span><span></span><span></span>
+  </div>
+
+
+    <div class="controls">
+      <button id="play-pause" aria-label="Play/Pause">▶️</button>
+    </div>
+    <audio id="audio" src="https://example.com/lofi-track.mp3"></audio>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
