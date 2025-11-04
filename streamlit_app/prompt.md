@@ -1,4 +1,4 @@
-Let’s plan to build a gene expression analysis dashboard in python using streamlit
+Let’s build a gene expression analysis dashboard in python using streamlit
 <features>
 - Allow the user to input a file with samples and gene counts as features
 - Allow the user to input a file with available contrasts
