@@ -1,1 +1,1 @@
-I'd like to run my streamlit app and tunnel to it using ngrok. Write a code block that let's pyngrok access my app given an ngrok key. Make sure logging gets written to disk and to stderr and that I can see it in the colab cell
+I'd like to run my streamlit app and tunnel to it using ngrok. Write a code block that writes my app to disk as app.py, then lets pyngrok access my app given an ngrok key. Make sure logging gets written to disk and to stderr and that I can see it in the colab cell
