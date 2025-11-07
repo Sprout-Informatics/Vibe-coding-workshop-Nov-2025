@@ -8,12 +8,12 @@ Slides from the workshop are available in "Vibe coding workshop slides Nov 6 202
 
 1 prompt, totally different results! 
 
-![Example 1](appl_stock_example/appl_example1.png)
+<img src="appl_stock_example/appl_example1.png" alt="Example 1" width="500"/>
 
-![Example 2](appl_stock_example/appl_example2.png)
+<img src="appl_stock_example/appl_example2.png" alt="Example 2" width="500"/>
 
-![Example 3](appl_stock_example/appl_example3.png)
+<img src="appl_stock_example/appl_example3.png" alt="Example 3" width="500"/>
 
-![Example 4](appl_stock_example/appl_example4.png)
+<img src="appl_stock_example/appl_example4.png" alt="Example 4" width="500"/>
 
-![Example 5](appl_stock_example/appl_example5.png)
+<img src="appl_stock_example/appl_example5.png" alt="Example 5" width="500"/>
